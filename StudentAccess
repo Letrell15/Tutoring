@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0">
+  <title>studentaccess</title>
+  <link rel="stylesheet" href="css/standardize.css">
+  <link rel="stylesheet" href="css/studentaccess-grid.css">
+  <link rel="stylesheet" href="css/studentaccess.css">
+</head>
+<body class="body page-studentaccess clearfix">
+  <p class="text">Subjects</p>
+  <button onClick="window.location='stat.html';" class="button-style _button _button-1">Statistics</button>
+  <button class="button-style _button _button-2">Literature</button>
+  <button class="button-style _button _button-3">Foreign Languages</button>
+  <button onClick="window.location='index.html';" class="button-style _button _button-4">Log Out</button>
+</body>
+</html>
