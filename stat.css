@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+.text {
+  float: left;
+  margin: 118px 0 0 33.66667%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+._button {
+  display: block;
+  float: left;
+  clear: both;
+  width: 19.0833333333%;
+  height: 40px;
+  border-radius: 3px;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+._button-1 {
+  margin: 18px 0 0 30.4166666666%;
+  background-color: rgb(221, 23, 17);
+}
+
+._button-2 {
+  margin: 37px 0 0 30.4166666666%;
+  background-color: rgb(221, 23, 17);
+}
+
+._button-3 {
+  margin: 49px 0 0 30.41667%;
+  background-color: rgb(221, 23, 17);
+}
+
+._button-4 {
+  margin: 42px 0 0 30.41667%;
+  background-color: rgb(221, 23, 17);
+}
+
+._button-5 {
+  margin: 91px 0 0 42%;
+  background-color: rgb(18, 59, 152);
+}

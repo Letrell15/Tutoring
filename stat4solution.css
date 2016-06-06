@@ -1,0 +1,83 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  float: left;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-1 p,
+.text-11 p,
+.text-2 p,
+.text-5 p,
+.text-7 p,
+.text-9 p {
+  margin-bottom: 1em;
+}
+
+._button {
+  display: block;
+  float: left;
+  clear: both;
+  width: 19.0833333333%;
+  height: 40px;
+  margin: 61px 0 0 34.25%;
+  border-radius: 3px;
+  background-color: rgb(18, 59, 152);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text-1 {
+  position: relative;
+  z-index: 0;
+  margin: 15px 0 0 30%;
+}
+
+.text-10,
+.text-4 {
+  clear: both;
+  margin: 27px 0 0 23.2487%;
+}
+
+.text-11 {
+  clear: both;
+  margin: 23px 0 0 25.08073%;
+}
+
+.text-2 {
+  position: relative;
+  z-index: 1;
+  margin: 15px 0 0 4.16667%;
+}
+
+.text-5 {
+  clear: both;
+  margin: 12px 0 0 25.08073%;
+}
+
+.text-6 {
+  clear: both;
+  margin: 29px 0 0 23.25%;
+}
+
+.text-7 {
+  clear: both;
+  margin: 11px 0 0 25.5%;
+}
+
+.text-3,
+.text-8 {
+  clear: both;
+  margin: 26px 0 0 23.25%;
+}
+
+.text-9 {
+  clear: both;
+  margin: 25px 0 0 25.08073%;
+}
